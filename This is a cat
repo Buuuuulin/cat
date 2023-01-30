@@ -1,0 +1,63 @@
+<html>
+<head>
+<meta charset="utf-8">
+<meta name=“description” content=“This is a website that to introduce my favorite artist”>
+<meta name=“viewport” content=“width=device-width, initial-scale=1”>
+
+<style>
+body {
+  background-color: #efe1ce;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 80px;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+
+<title>This is a Cat</title>
+</head>
+
+<body>
+
+<!headings>
+<h1>This is a Cat</h1>
+<h2>Cat is the cutie animals in the world</h2>
+<h3>It will say "meow" when it wants some foods.</h3>
+
+
+
+<!Links>
+<a href="https://www.youtube.com/watch?v=gQlMMD8auMs">Learn more</a>
+</br> </br>
+
+<!image>
+<img src="https://cdn.pixabay.com/photo/2014/11/30/14/11/cat-551554_1280.jpg" alt="mirrorchristmas" width="600">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-WOngp71aM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<!list>
+<h2>Cat song</h2>
+
+<ul>
+  <li>Cats are able to sing a song: "Meow"</li>
+  <li>by cats:</li>
+  <li>Meow Meowmeowmeowmeow meow meowmeowmeowmeow</li>
+</ul>  
+
+<h2>Cats favor</h2>
+
+<ol>
+  <li>Cats like to eat cat snacks</li>
+  <li>Cats like to play with toys</li>
+  <li>Cats like to break owners' furniture</li>
+</ol> 
+
+</body>
+</html>
